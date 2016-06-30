@@ -1,0 +1,29 @@
+.wrap{
+	width:900px;
+	margin: 0 auto;
+	background-color: rgba(1,1,1,0.2);
+	margin-top: 80px;
+	padding: 50px 30px;
+	color:white;
+	overflow: hidden;
+}
+
+h1{
+	text-align: center;
+	font-family: monospace;
+}
+
+.poster{
+	float: left;
+	width: 200px;
+}
+
+.plot{
+	padding: 0px 30px;
+	float: left;
+	width: 500px;
+}
+.tags{
+	width: 50px;
+	height: 450px;
+}
